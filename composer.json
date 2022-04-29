@@ -1,0 +1,21 @@
+{
+    "name": "ay4t/watzap-id",
+    "description": "PHP Module untuk integrasi Watzap.id",
+    "type": "library",
+    "require": {
+        "php-curl-class/php-curl-class": "dev-master"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ay4t\\WatzapId\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ayatulloh Ahad R",
+            "email": "kawoel@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
