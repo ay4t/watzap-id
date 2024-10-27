@@ -1,5 +1,5 @@
 
-![Logo](https://indiega.net/assets/images/indiega-web-logo-path.svg)
+![Logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC7jSFwKT06zyJF9X4llglTkNMeJEJRCwFrCsIrkaTUz1kRQ9VxRR3duyaNdmZqk3gGcJpkUyooNKQ8ukcGy7F0afkQZcVE85o1cAhaQfSE0ehAPAk3AjABA3puVzb8jM9EShy_2iNXjtM7Jw7VMhnR-jxpEOdZYLcL2UzjR8BLIRhgTauzuGgBf2T/s1600/indiega-web-logo-path.png)
 # Watzap.id PHP Module
 
 Paket ini dibuat dan dikembangkan untuk integrasi WhatsApp notifikasi yang disediakan oleh layanan Watzap.id. 
